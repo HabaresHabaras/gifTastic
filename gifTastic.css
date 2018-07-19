@@ -1,0 +1,60 @@
+button div form input {
+  margin: 10px;
+}
+
+.headingDiv{
+    background-color:black;
+
+}
+#headingTitle{
+    color:white;
+    margin-left:3vh;
+}
+
+#character-input{
+    color:grey;
+}
+
+
+#footerTitle{
+    background-color:black;
+    color:white;
+    text-align: center;
+    position:fixed;
+    width:100%;
+    margin:0;
+    bottom:0;
+    font-size:10px;
+}
+.columna{
+float:left;
+height:30vh;
+}
+
+.navbar img{
+    width:20vh;
+    height:20vh;
+}
+#gifsDiv{
+    padding-bottom:50vh;
+}
+.gifsDiv p{
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.columna img{
+    margin-left: auto;
+    margin-right: 0;
+    height:20vh;
+}
+
+.character-btn{
+    margin-top:4vh;
+margin-right:5vh;
+margin-bottom:3vh;
+
+}
+#gifForm{
+    clear:left;
+}
