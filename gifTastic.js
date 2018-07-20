@@ -1,4 +1,4 @@
-var topics = ["The office", "Michael Scott", "Pam and Jim", "Dwight Shrute", "Jim Halpert", "Pam Beesly", "Kevin the office"];
+var topics = ["The office", "Michael Scott", "Pam and Jim", "Dwight Shrute", "Jim Halpert", "Pam Beesly", "Kevin the office", "Ryan Howard", "Andy Bernard", "Robert California", "Jan Levinson", "Darryl Philbin", "Toby Flenderson", "Meredith The Office"];
 $(function(){
       function gifTastic() {
 
