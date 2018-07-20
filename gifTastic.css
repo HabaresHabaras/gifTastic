@@ -13,9 +13,23 @@ button div form input {
 
 #character-input{
     color:grey;
+    margin:5vh;
 }
 
+#add-character{
+    margin-left:5vh;
+    margin-bottom:5vh;
 
+}
+
+.paragraph{
+    background-color:rgb(93, 124, 209);
+    color:white;
+    padding:1vh;
+}
+.hide{
+    display:none;
+}
 #footerTitle{
     background-color:black;
     color:white;
@@ -49,9 +63,12 @@ height:30vh;
     height:20vh;
 }
 
+
+
 .character-btn{
     margin-top:4vh;
 margin-right:5vh;
+margin-left:1vh;
 margin-bottom:3vh;
 
 }
